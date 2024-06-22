@@ -1,30 +1,25 @@
-# KneeProsthetic
+# Bionica
 
-Passive and powered leg prostheses are expensive and require access to specific equipment and technology, making them very inaccessible. Our objective is to build an open source powered prosthesis that is lightweight, inexpensive, and has a functional controller to be a foundation for striving engineers.
+Bionica is a knee prosthetic created using Arduino.
 
-## Getting Started
+# Requirements
 
-This repository contains the preliminary code to manually control your powered prosthesis through both wired and wireless communication. 
+- Arduino - latest edition
+- Teensyduino - latest edition
+- Python 2.7
+- Raspberry Pi Zero W (x2 for wireless communication)
+- Teensy 4.0
 
-### Prerequisites
+# Installing
 
-* Arduino - latest edition
-* Teensyduino - latest edition
-* Python 2.7
+- [Teensyduino Download Link](https://www.pjrc.com/teensy/td_download.html)
+- [Arduino Download Link](https://www.arduino.cc/en/main/software)
 
-* Raspberry Pi Zero W (x2 for wireless communication)
-* Teensy 4.0
+# Schematics
 
-### Installing
+![Screenshot 2024-06-22 180240](https://github.com/enginestein/Bionica/assets/117010357/941efc2f-b642-4e2f-9817-cde36170af28)
+![Screenshot 2024-06-22 180359](https://github.com/enginestein/Bionica/assets/117010357/4ce5e1d0-fb59-412b-8556-da57c57759a3)
 
-* [Teensyduino Download Link](https://www.pjrc.com/teensy/td_download.html)
-* [Arduino Download Link](https://www.arduino.cc/en/main/software)
+# PCB
 
-## Running the tests
-
-Explain how to run the  tests for this system
-
-## Authors
-
-* **Justin Francis** - *Initial work* - [jphran](https://github.com/jphran)
-* **Palani Thangaraj** - *Initial work* - [palan-thangaraj](https://github.com/palani-thangaraj)
+![Screenshot 2024-06-22 182039](https://github.com/enginestein/Bionica/assets/117010357/2021f022-ed59-4658-b004-200d108f354c)
